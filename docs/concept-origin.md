@@ -14,6 +14,11 @@ To test if a radical UX simplification could fix financial tracking anxiety, an 
 * **The Core UI Test:** I focused entirely on a single behavioral metric: a horizontal progress bar showing the elapsed week alongside a dynamically calculated real-time indicator: *"You can spend RM XX/day for X more days"*
 * **The Behavioral Result:** By focusing entirely on this hyper-focused weekly slice, the mental barrier to tracking evaporated. It transformed budgeting from an institutional chore into a low-stress, sustainable lifestyle game.
 
+     <div align="center">
+  <img src="../img/Cashew-weekly-budget.png" alt="Cashew Sandbox UI Proof" width="50%">
+  <p><em><b>Figure 1:</b> Live auto-ethnographic sandbox test using the Cashew app UI. The interface was intentionally restricted to isolate a single weekly allowance metric, validating the behavioral theory before developing the custom PocketPace framework.</em></p>
+</div>
+
 ## 3. The Shift to Product Architecture
 The sandbox test proved that the **Weekly Sprint** works brilliantly as a behavioral interface. However, real-world usage quickly exposed a critical mechanical limitation: **Leakage**. 
 

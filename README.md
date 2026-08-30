@@ -23,7 +23,7 @@ PocketPace is built on **Behavioral Design Logic**. It treats variable daily spe
 
 The architectural concepts, empirical validation, and branding choices for this project are fully detailed in the dedicated documentation repository folder:
 
-* 🧭 **[Concept Origin](docs/origin.md):** The core problem space, human-budgeting gaps, and the real-world sandbox experiment that sparked the product concept.
+* 🧭 **[Concept Origin](docs/concept-origin.md):** The core problem space, human-budgeting gaps, and the real-world sandbox experiment that sparked the product concept.
 * 📐 **[Design Rationale](docs/design-rationale.md):** The deep technical blueprints, system architecture, 3-tier layout logic, and visual brand identity guidelines.
 * 🔄 **[Design Process](docs/design-process.md):** The chronological journey, design timeline milestones, product roadmap progression, and the semantic veto logs.
 
